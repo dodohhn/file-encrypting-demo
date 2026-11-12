@@ -1,0 +1,7 @@
+# Abhängigkeiten / Dependencies
+pycryptodome
+
+# Installation / Install:
+# Kopiere den folgenden Befehl und gib ihn in der Kommandozeile ein: / Copy the following command and enter it at the command prompt:
+
+# python -m pip install -r requirements.txt
